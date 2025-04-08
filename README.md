@@ -1,5 +1,79 @@
 # Hoja de trabajo I - PI 2025 | USPG
 
+Este repositorio contiene un total de **50 ejercicios prácticos** organizados por tema y nivel de dificultad.  
+Los ejercicios están pensados para reforzar los conocimientos adquiridos durante el curso de Programación I.
+
+---
+
+## ⚙️ ¿Cómo hacer un fork?
+
+Si nunca has hecho un fork en GitHub, sigue estos pasos:
+
+1. Ingresa al repositorio original en GitHub.
+2. En la esquina superior derecha haz clic en el botón `Fork`.
+3. Selecciona tu cuenta personal como destino.
+4. GitHub creará una **copia del repositorio en tu cuenta**.
+5. Desde tu fork, haz clic en el botón `Code` y copia la URL.
+6. Abre VS Code y clona el repositorio con:
+
+```bash
+git clone https://github.com/tu-usuario/nombre-del-repo.git
+```
+
+---
+
+## 📌 Instrucciones generales
+
+1. Crea un **archivo `.js` por cada ejercicio**.  
+   El nombre del archivo debe tener el formato:  
+   `ejercicio01.js`, `ejercicio02.js`, ..., `ejercicio50.js`
+
+2. Escribe tu solución en cada archivo.  
+   Puedes incluir comentarios que expliquen tu lógica.
+
+3. Una vez termines todos (o un bloque), **haz commit y push** a tu repositorio fork.
+
+4. Envía el enlace de tu repositorio (fork) al aula virtual, correo o formulario asignado.
+
+---
+
+## 📁 Organización sugerida del repositorio
+
+```
+📦 tu-repo-fork/
+ ┣ 📄 README.md
+ ┣ 📁 ejercicios/
+ ┃ ┣ ejercicio01.js
+ ┃ ┣ ejercicio02.js
+ ┃ ┣ ...
+ ┃ ┗ ejercicio50.js
+```
+
+Puedes trabajar en la raíz o dentro de una carpeta `ejercicios/`, como prefieras.
+
+---
+
+## 💡 Recomendaciones
+
+-   Trabaja por bloques temáticos (variables, operadores, condicionales, etc.).
+-   Usa `console.log()` para probar tus soluciones.
+-   Usa comentarios (`//`) para anotar tus ideas o pasos.
+-   Si te atascas, repasa el tema correspondiente en tus apuntes o pregunta.
+
+---
+
+## 🧠 Objetivo
+
+Al finalizar este repaso, deberías sentirte más seguro/a con los fundamentos de JavaScript:  
+✦ Sintaxis básica  
+✦ Tipos de datos  
+✦ Lógica condicional  
+✦ Bucles  
+✦ Funciones  
+✦ Arreglos y sus métodos
+
+# ⛳ Ejercicios de la hoja de trabjo
+
 ## 🧩 **Variables y Tipos de Datos**
 
 ### 🟢 Básicos
@@ -747,3 +821,5 @@ const colores = ['Rojo', 'Verde', 'Azul', 'Amarillo']
 Encuentra y muestra la **posición de "Azul"** dentro del arreglo.
 
 ---
+
+¡Mucho éxito y a practicar se ha dicho! 🚀
