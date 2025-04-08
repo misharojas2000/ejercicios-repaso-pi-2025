@@ -1,0 +1,19 @@
+{
+  "name": "ejercicios-repaso-pi-2025",
+  "version": "1.0.0",
+  "description": "Ejercicios de repaso programacion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misharojas2000/ejercicios-repaso-pi-2025.git"
+  },
+  "author": "Fernanda Monzón",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/misharojas2000/ejercicios-repaso-pi-2025/issues"
+  },
+  "homepage": "https://github.com/misharojas2000/ejercicios-repaso-pi-2025#readme"
+}
