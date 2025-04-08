@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/misharojas2000/ejercicios-repaso-pi-2025/issues"
   },
-  "homepage": "https://github.com/misharojas2000/ejercicios-repaso-pi-2025#readme"
+  "homepage": "https://github.com/misharojas2000/ejercicios-repaso-pi-2025#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
