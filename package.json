@@ -1,5 +1,5 @@
 {
-  "name": "ejercicios-repaso-pi-2025",
+  "name": "clear",
   "version": "1.0.0",
   "description": "Ejercicios de repaso programacion",
   "main": "index.js",
@@ -18,5 +18,6 @@
   "homepage": "https://github.com/misharojas2000/ejercicios-repaso-pi-2025#readme",
   "dependencies": {
     "readline-sync": "^1.4.10"
-  }
+  },
+  "devDependencies": {}
 }
